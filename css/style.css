@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Cobert;
+    src: url(../fonts/Corbert-Regular.ttf);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;  
+    font-family: Cobert, Arial, Helvetica, sans-serif;  
+}
+
+body {
+    margin: auto;
+    background: rgb(255, 196, 0);
+}
+
